@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! Nice to meet you!
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto299&layout=compact)
+
+
 <!--
 **Yuto299/Yuto299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
