@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Nice to meet you!　🌟
 - **Currently Learning:** PHP, SQL
 
 
-## Languages and Tools:
+## 💻 Skills
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,react)
 
