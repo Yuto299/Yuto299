@@ -1,6 +1,13 @@
-# Hello, I'm Yuto Ota!😄
+# Hello, I'm Yuto Ota!　😄
 
-Welcome to my GitHub profile! Nice to meet you!
+Welcome to my GitHub profile! Nice to meet you!　🌟
+
+## 👨‍💻 About Me
+
+- **Occupation:** Backend Engineer
+- **Hobbies:** Tennis, Music, Snowboarding
+- **Currently Learning:** PHP, SQL
+
 
 ## Languages and Tools:
 
