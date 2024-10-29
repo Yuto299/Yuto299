@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! Nice to meet you!
 
-# Languages and Tools:
+## Languages and Tools:
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,react)
 
