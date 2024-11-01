@@ -1,6 +1,7 @@
 # Hello, I'm Yuto Ota!　😄
 
 Welcome to my GitHub profile! Nice to meet you!　🌟
+<br/>
 I'm still a beginner, but I'm eager to keep developing and learning as much as I can.　💪
 
 ## 👨‍💻 About Me
