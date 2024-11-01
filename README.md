@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! Nice to meet you!　🌟
 <br/>
 I'm still a beginner, but I'm eager to keep developing and learning as much as I can.　💪
+<br/>
+I'll do my best to become a fully-fledged engineer as quickly as possible!　😜
 
 ## 👨‍💻 About Me
 
