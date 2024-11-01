@@ -10,12 +10,12 @@ I'll do my best to become a fully-fledged engineer as quickly as possible!　�
 
 - **Occupation:** Backend Engineer
 - **Hobbies:** Tennis, Music, Snowboarding
-- **Currently Learning:** PHP, SQL, Python, C# 
+- **Currently Learning:** PHP, React, typescript, C# 
 
 
 ## 💻 Basic Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,git,sass,tailwind)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,SQL,python,react,git,sass,tailwind)
 
 ## 🔧 Available Tools
 ![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest)
