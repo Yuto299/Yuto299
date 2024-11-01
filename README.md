@@ -13,9 +13,12 @@ I'll do my best to become a fully-fledged engineer as quickly as possible!　�
 - **Currently Learning:** PHP, SQL
 
 
-## 💻 Beginner Skills & Available Tools
+## 💻 Beginner Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,python,react)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,git,sass,tailwind)
+
+## 🔧 Available Tools
+![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest)
 
 <!--
 **Yuto299/Yuto299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
