@@ -13,7 +13,7 @@ I'll do my best to become a fully-fledged engineer as quickly as possible!　�
 - **Currently Learning:** PHP, SQL, Python, C# 
 
 
-## 💻 Beginner Skills
+## 💻 Basic Skills
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,react,git,sass,tailwind)
 
