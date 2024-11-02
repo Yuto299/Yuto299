@@ -10,7 +10,7 @@ I'll do my best to become a fully-fledged engineer as quickly as possible!　�
 
 - **Occupation:** Backend Engineer
 - **Hobbies:** Tennis, Music, Snowboarding
-- **Currently Learning:** PHP, React, typescript, C# 
+- **Currently Learning:** PHP, React Native, Typescript, C# 
 
 
 ## 💻 Basic Skills
