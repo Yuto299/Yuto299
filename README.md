@@ -21,7 +21,7 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 ![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest)
 
 ## 🌟 Primary language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto299)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuto299&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Yuto299/Yuto299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
