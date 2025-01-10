@@ -1,6 +1,4 @@
 name: GitHub-Profile-Summary-Cards
-run: |
-　　git push https://github.com/YourUsername/github-profile-summary-cards.git HEAD:main
 
 on:
   create:
