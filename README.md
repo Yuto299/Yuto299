@@ -21,7 +21,8 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 ![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest)
 
 ## 🃏 Detail Cards
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuto299&theme=default
+![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/github/0-profile-details.svg)
+
 
 
 
