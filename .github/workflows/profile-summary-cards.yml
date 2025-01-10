@@ -1,5 +1,4 @@
 name: GitHub-Profile-Summary-Cards
-run: git pull --rebase origin main
 
 on:
   create:
