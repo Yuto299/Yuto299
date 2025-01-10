@@ -22,6 +22,8 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
 ## 🃏 Detail Cards
 ![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/github/2-most-commit-language.svg)
+
 
 
 
