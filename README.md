@@ -21,8 +21,8 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 ![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest)
 
 ## 🃏 Detail Cards
-![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/github/0-profile-details.svg)
-[![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/0-profile-details.svg)
+[![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
