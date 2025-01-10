@@ -6,6 +6,7 @@ I'm still a beginner, but I'm eager to keep developing and learning as much as I
 <br/>
 I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
+
 ## 👨‍💻 About Me
 
 - **Occupation:** Backend Engineer
@@ -17,8 +18,10 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind)
 
+
 ## 🔧 Available Tools
 ![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest)
+
 
 ## 🃏 Detail Cards
 ![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/0-profile-details.svg)
