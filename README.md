@@ -16,7 +16,7 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
 ## 💻 Basic Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind,lalavel)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind)
 
 
 ## 🔧 Available Tools
