@@ -20,7 +20,7 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
 
 ## 🔧 Available Tools
-![](https://skillicons.dev/icons?i=vscode,github,npm,yarn,vite,vitest,babel,webpack,jest,docker)
+![](https://skillicons.dev/icons?i=vscode,npm,yarn,vite,babel,webpack,jest,docker)
 
 
 ## 📃 Detail Cards
