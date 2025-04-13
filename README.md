@@ -11,7 +11,7 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
 - **Occupation:** System Engineer
 - **Hobbies:** Tennis, Music, Snowboarding
-- **Currently Learning:** PHP, Typescript 
+- **Currently Learning:** PHP, Typescript, Python 
 
 
 ## 💻 Basic Skills
