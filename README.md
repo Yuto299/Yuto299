@@ -16,11 +16,11 @@ I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
 
 ## 💻 Basic Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,react,git,sass,tailwind)
+![](https://skillicons.dev/icons?i=html,css,js,typescript)
 
 
 ## 🔧 Available Tools
-![](https://skillicons.dev/icons?i=vscode,npm,yarn,vite,babel,webpack,jest,docker)
+![](https://skillicons.dev/icons?i=docker,react,git,sass,tailwind)
 
 
 ## 📃 Detail Cards
