@@ -1,6 +1,6 @@
 # Hello, I'm Yuto Ota! 😄
 
-Welcome to my GitHub profile! Nice to meet you! 🌟
+Welcome to my GitHub profile! Nice to meet you 🌟
 <br/>
 I'm working hard every day to become a future SRE (Site Reliability Engineer) 💪
 <br/>
