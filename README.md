@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! Nice to meet you! 🌟
 <br/>
-I'm still a beginner, but I'm eager to keep developing and learning as much as I can. 💪
+I'm working hard to become a future SRE (Site Reliability Engineer) 💪
 <br/>
-I'll do my best to become a fully-fledged engineer as quickly as possible! 😜
+I’ll leave my mark in Japan by contributing to meaningful projects and growing as an engineer every day 😜
 
 
 ## 👨‍💻 About Me
