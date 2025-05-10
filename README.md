@@ -2,8 +2,7 @@
 
 Welcome to my GitHub profile! Nice to meet you! 🌟
 <br/>
-I'm working hard every day to become a future SRE (Site Reliability Engineer),
-someone who can build reliable systems and support services that people can truly depend on 💪
+I'm working hard every day to become a future SRE (Site Reliability Engineer) 💪
 <br/>
 I’ll leave my mark in Japan by contributing to meaningful projects and growing as an engineer every day 😜
 
