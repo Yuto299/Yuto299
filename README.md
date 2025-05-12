@@ -27,6 +27,12 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 ![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/1-repos-per-language.svg)　[![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
+
 
 
 
