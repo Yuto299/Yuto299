@@ -16,11 +16,11 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 ## 💻 Basic Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,php,nodejs,react)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,php,nodejs,react,laravel)
 
 
 ## 🔧 Available Tools
-![](https://skillicons.dev/icons?i=docker,firebase,mysql,git,sass,tailwind,vite,npm)
+![](https://skillicons.dev/icons?i=linux,docker,firebase,mysql,git,sass,tailwind,vite,npm,vercel.ubuntu)
 
 
 ## 📃 Detail Cards
