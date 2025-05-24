@@ -16,7 +16,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 ## 💻 Basic Skills
 
-![](https://skillicons.dev/icons?i=html,css,js,typescript,php,laravel,nodejs,react,nextjs)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,react,nextjs,php,laravel)
 
 
 ## 🔧 Available Tools
