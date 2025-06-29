@@ -20,7 +20,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 
 ## 🔧 Available Tools
-![](https://skillicons.dev/icons?i=linux,docker,firebase,mysql,vercel,git,sass,tailwind,vite,npm)
+![](https://skillicons.dev/icons?i=linux,docker,firebase,mysql,vercel,git,bootstrap,tailwind,sass,vite,npm)
 
 
 ## 📃 Detail Cards
