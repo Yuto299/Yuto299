@@ -18,7 +18,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 ![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,nodejs)
 
 ## 🔧 Tools & Platforms
-![](https://skillicons.dev/icons?i=git,docker,linux,firebase,mysql,vercel,bootstrap,tailwind,sass,vite)
+![](https://skillicons.dev/icons?i=git,github,docker,linux,vite,vercel,firebase,mysql,bootstrap,tailwind,sass,figma)
 
 
 ## 📃 Detail Cards
