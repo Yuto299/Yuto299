@@ -14,7 +14,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 - **Currently Learning:** PHP(Laravel), Typescript(Next.js), Python(Django)
 
 ## 💻 Languages & Frameworks
-![](https://skillicons.dev/icons?i=html,css,js,typescript,php,python)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,php)
 ![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,nodejs)
 
 ## 🔧 Tools & Platforms
