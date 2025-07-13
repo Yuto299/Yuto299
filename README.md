@@ -10,7 +10,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 ## 👨‍💻 About Me
 
 - **Occupation:** System Engineer
-- **Hobbies:** Tennis, Music, Snowboarding
+- **Hobbies:** Programming, Tennis, Music, Snowboarding
 - **Currently Learning:** PHP(Laravel), Typescript(Next.js), Python(Django)
 
 ## 💻 Languages & Frameworks
