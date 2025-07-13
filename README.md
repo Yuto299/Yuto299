@@ -13,14 +13,12 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 - **Hobbies:** Tennis, Music, Snowboarding
 - **Currently Learning:** PHP(Laravel), Typescript(Next.js), Python(Django)
 
+## 💻 Languages & Frameworks
+![](https://skillicons.dev/icons?i=html,css,js,typescript,php,python)
+![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,nodejs)
 
-## 💻 Basic Skills
-
-![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,react,nextjs,php,laravel)
-
-
-## 🔧 Available Tools
-![](https://skillicons.dev/icons?i=linux,docker,firebase,mysql,vercel,git,bootstrap,tailwind,sass,vite)
+## 🔧 Tools & Platforms
+![](https://skillicons.dev/icons?i=git,docker,linux,firebase,mysql,vercel,bootstrap,tailwind,sass,vite)
 
 
 ## 📃 Detail Cards
