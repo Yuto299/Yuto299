@@ -11,7 +11,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 - **Occupation:** System Engineer
 - **Hobbies:** Programming, Tennis, Music, Snowboarding
-- **Currently Learning:** PHP(Laravel), Typescript(Next.js), Python(Django)
+- **Currently Learning:** Typescript(Next.js), Python(Django), Go
 
 ## 💻 Languages & Frameworks
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,php)
