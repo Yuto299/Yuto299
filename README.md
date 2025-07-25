@@ -15,7 +15,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 ## 💻 Languages & Frameworks
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,php)
-![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,nodejs)
+![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,ejs,nodejs)
 
 ## 🔧 Tools & Platforms
 ![](https://skillicons.dev/icons?i=git,github,docker,linux,vite,vercel,firebase,mysql,bootstrap,tailwind,sass,figma)
