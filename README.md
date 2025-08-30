@@ -11,10 +11,10 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 - **Occupation:** System Engineer
 - **Hobbies:** Programming, Tennis, Music, Snowboarding
-- **Currently Learning:** Typescript(Next.js, React), PHP(Laravel)
+- **Currently Learning:** Typescript(Next.js, React), Python(FastAPI)
 
 ## 💻 Languages & Frameworks
-![](https://skillicons.dev/icons?i=html,css,js,typescript,php)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 ![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,nodejs)
 
 ## 🔧 Tools & Platforms
