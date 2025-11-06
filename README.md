@@ -9,7 +9,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 ## 👨‍💻 About Me
 
-- **Occupation:** System Engineer
+- **Occupation:** System Engineer & Fullstack Engineer
 - **Hobbies:** Programming, Tennis, Music, Snowboarding
 - **Currently Learning:** Typescript(Next.js, React), Python(FastAPI, Django), Docker(Kubernetes)
 
