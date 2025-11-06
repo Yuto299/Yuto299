@@ -11,7 +11,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 - **Occupation:** System Engineer & Fullstack Engineer
 - **Hobbies:** Programming, Tennis, Music, Snowboarding
-- **Currently Learning:** Typescript(Next.js, React), Python(FastAPI, Django), Docker(Kubernetes)
+- **Currently Learning:** Python(FastAPI, Django), Docker(Kubernetes), infrastructure
 
 ## 💻 Languages & Frameworks
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
