@@ -9,9 +9,11 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 
 ## 👨‍💻 About Me
 
-- **Occupation:** System Engineer & Fullstack Engineer
-- **Hobbies:** Programming, Tennis, Music, Snowboarding
-- **Currently Learning:** Python(FastAPI, Django), Docker(Kubernetes), infrastructure
+**Occupation:** System Engineer & Fullstack Engineer
+<br/>
+**Hobbies:** Tennis, Music, Snowboarding
+<br/>
+**Currently Learning:** Python(FastAPI, Django), Docker(Kubernetes), infrastructure
 
 ## 💻 Languages & Frameworks
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
