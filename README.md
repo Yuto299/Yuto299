@@ -22,11 +22,6 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 ## 🔧 Tools & Platforms
 ![](https://skillicons.dev/icons?i=git,github,postman,docker,linux,vite,vercel,firebase,mysql,bootstrap,tailwind,sass,figma)
 
-
-## 📃 Detail Cards
-![](https://raw.githubusercontent.com/Yuto299/Yuto299/main/profile-summary-card-output/graywhite/0-profile-details.svg)
-
-
 ## 🐍 Contribution Snake
 ![](https://raw.githubusercontent.com/Yuto299/Yuto299/output/github-contribution-grid-snake.svg)
 
