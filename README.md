@@ -15,11 +15,10 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 <br/>
 **Currently Learning:** Python(FastAPI, Django), Docker(Kubernetes), infrastructure
 
-## 💻 Languages & Frameworks
+## 💻 Slills
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,python,php)
 ![](https://skillicons.dev/icons?i=react,nextjs,laravel,jquery,nodejs)
-
-## 🔧 Tools & Platforms
+<br/>
 ![](https://skillicons.dev/icons?i=git,github,postman,docker,linux,vite,vercel,firebase,mysql,bootstrap,tailwind,sass,figma)
 
 ## 🐍 Contribution Snake
