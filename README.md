@@ -13,7 +13,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 <br/>
 **Hobbies:** Tennis, Music, Snowboarding
 <br/>
-**Currently Learning:** Python(FastAPI, Django), Docker(Kubernetes), infrastructure
+**Currently Learning:** Java(Spring Boot), Docker(Kubernetes), infrastructure
 
 ## 💻 Slills
 ![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,jquery,typescript,python,php,nodejs,laravel)
