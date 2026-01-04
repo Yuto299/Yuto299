@@ -16,7 +16,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 **Currently Learning:** Java(Spring Boot), Docker(Kubernetes), infrastructure
 
 ## 💻 Slills
-![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,jquery,typescript,python,php,nodejs,laravel)
+![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,jquery,typescript,python,php,cs,nodejs,laravel)
 <br/>
 ![](https://skillicons.dev/icons?i=windows,linux,ubuntu,wordpress,aws,azure,git,github,docker,mysql,postgres,vercel,firebase)
 
