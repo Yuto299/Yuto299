@@ -18,7 +18,7 @@ I’ll leave my mark in Japan by contributing to meaningful projects and growing
 ## 💻 Slills
 ![](https://skillicons.dev/icons?i=html,css,js,react,nextjs,jquery,typescript,python,php,nodejs,laravel)
 <br/>
-![](https://skillicons.dev/icons?i=windows,linux,ubuntu,wordpress,azure,git,github,docker,mysql,postgres,vercel,firebase)
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu,wordpress,aws,azure,git,github,docker,mysql,postgres,vercel,firebase)
 
 ## 🐍 Contribution Snake
 ![](https://raw.githubusercontent.com/Yuto299/Yuto299/output/github-contribution-grid-snake.svg)
